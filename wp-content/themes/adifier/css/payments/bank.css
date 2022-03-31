@@ -1,0 +1,42 @@
+#bank-button{
+	display: block;
+	padding: 4px 0px;
+}
+
+.bank-details{
+	border: 1px solid #eee;
+	margin: 0;
+	padding: 20px 0px;
+}
+
+ul.bank-details li{
+	width: 50%;
+	margin: 0px;
+	float: left;
+	padding: 0px 0px 0px 20px;
+}
+
+.rtl ul.bank-details li{
+	text-align: right;
+	padding: 0px 20px 0px 0px;
+}
+
+@media (max-width: 600px){
+	ul.bank-details li{
+		width: 100%;
+	}
+}
+
+.small-bank-title{
+	color: #bbb;
+	font-size: 11px;
+	margin: 0px;
+}
+
+.bank-details-title{
+	margin: 15px 0px;
+}
+
+.bank-details-title h5{
+	margin: 0px;
+}

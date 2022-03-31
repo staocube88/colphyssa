@@ -1,0 +1,55 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 07/08/2020 19:20
+  	*/
+
+@font-face {
+  font-family: "Afementor";
+  src: url("../fonts/afementor.eot");
+  src: url("../fonts/afementor.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/afementor.woff2") format("woff2"),
+       url("../fonts/afementor.woff") format("woff"),
+       url("../fonts/afementor.ttf") format("truetype"),
+       url("../fonts/afementor.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Afementor";
+    src: url("../fonts/afementor.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="af-kc-"]:before, [class*=" af-kc-"]:before,
+[class^="af-kc-"]:after, [class*=" af-kc-"]:after {   
+  font-family: Afementor;
+        font-size: 20px;
+font-style: normal;
+font-size: 30px;
+}
+
+.af-kc-adverts:before { content: "\f100"; }
+.af-kc-infinity-adverts:before { content: "\f100"; }
+.af-kc-af-locations:before { content: "\f101"; }
+.af-kc-af-locations-list:before { content: "\f102"; }
+.af-kc-af-title:before { content: "\f103"; }
+.af-kc-blogs:before { content: "\f104"; }
+.af-kc-categories-tree:before { content: "\f105"; }
+.af-kc-categories-list:before { content: "\f106"; }
+.af-kc-round-icon:before { content: "\f107"; }
+.af-kc-categories-table:before { content: "\f108"; }
+.af-kc-interactive-slider:before { content: "\f109"; }
+.af-kc-price-tables:before { content: "\f10a"; }
+.af-kc-promotion-map:before { content: "\f10b"; }
+.af-kc-quick-search:before { content: "\f10c"; }
+.af-kc-search:before { content: "\f10d"; }
+.af-kc-how-it-works:before { content: "\f10e"; }
+.af-kc-service:before { content: "\f10f"; }
+.af-kc-typed-text:before { content: "\f110"; }
+.af-kc-text-slider:before { content: "\f111"; }
+.af-kc-slider-bg-text:before { content: "\f112"; }
+.af-kc-categories-transparent:before { content: "\f113"; }
+.af-kc-categories:before { content: "\f114"; }
+.af-kc-button:before { content: "\f115"; }

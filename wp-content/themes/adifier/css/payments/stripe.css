@@ -1,0 +1,13 @@
+#stripe-button{
+	display: block;
+	padding: 4px 0px;
+}
+
+.stripe-pay i{
+	display: none;
+}
+
+#stripecard .modal-dialog{
+	width: 600px;
+	max-width: 90%;
+}

@@ -1,0 +1,25 @@
+#paypal-button{
+	opacity: 0.000001;
+	position: absolute;
+	z-index: 2;
+	min-width: 0px!important;
+	min-height: 0px;
+	width: 150px!important;
+	height: 40px!important;
+	margin-top: 6px;
+	overflow: hidden;
+}
+
+.paypal-buttons-context-iframe{
+	margin-top: 0px;
+}
+
+.paypal-covering{
+	background-image: url('../../images/paypal.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+	z-index: 1;
+	height: 50px;
+}
